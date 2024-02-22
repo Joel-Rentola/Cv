@@ -25,10 +25,10 @@
     <div class="info">
     <div class="box">
         <h3 style="margin-top: 0; margin-bottom: 15px; padding-top: 5px;">Personal info:</h3>
-        <img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 18px; margin-bottom: 5px;">Joel Rentola</p>
-        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 2px; margin-bottom: 5px;">045 6931959</p>
-        <img src="https://cdn-icons-png.flaticon.com/512/4213/4213968.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 1px; margin-bottom: 8px; margin-left: 22px;">joel06.rentola@gmail.com</p>
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 6px; margin-left: 23px;">https://github.com/Joel-Rentola</p>
+        <img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 10px; margin-bottom: 5px;">Joel Rentola</p>
+        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 0px; margin-bottom: 5px;">045 6931959</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/4213/4213968.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 0px; margin-bottom: 8px; margin-left: 22px;">joel06.rentola@gmail.com</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 2px; margin-left: 23px;">https://github.com/Joel-Rentola</p>
     </div>
 
     <div style="margin-left: 10px;">
@@ -63,7 +63,7 @@
             -Chairman of Youth council of Uurainen 1.1.2020-1.6.2022 <br>
         </p>
     
-        <fieldset style="width: 230px;">
+        <fieldset style="width: 260px;">
             <legend>Coding languages I've coded with</legend>
             <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" style="width: 40px; height: 40px; margin-right: 40px; margin-left: 5px; margin-bottom: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width: 40px; height: 40px; margin-right: 40px; margin-bottom: 8px;">
