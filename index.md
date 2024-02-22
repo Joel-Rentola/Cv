@@ -25,10 +25,11 @@
     <div class="info">
     <div class="box">
         <h3 style="margin-top: 0; margin-bottom: 5px; padding-top: 5px;">Personal info:</h3>
-        <img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 0px; margin-bottom: 0px;">Joel Rentola</p>
-        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 0px; margin-bottom: 0px;">045 6931959</p>
-        <img src="https://cdn-icons-png.flaticon.com/512/4213/4213968.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 0px; margin-bottom: 0px; margin-left: 22px;">joel06.rentola@gmail.com</p>
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 20px; width: 20px;"><a href="https://github.com/Joel-Rentola" target="_blank" style="margin: 0; margin-top: 0px; margin-left: 2px; color: black;">https://github.com/Joel-Rentola</a>
+        <img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" style="height: 20px; width: 20px;"><p style="margin: 0;">Joel Rentola</p>
+        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" style="height: 20px; width: 20px;"><p style="margin: 0;">045 6931959</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/4213/4213968.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-left: 22px;">joel06.rentola@gmail.com</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 20px; width: 20px;"><a href="https://github.com/Joel-Rentola" target="_blank" style="margin: 0; margin-top: 0px; margin-left: 2px; color: black;">https://github.com/Joel-Rentola</a><br>
+        <img src="https://www.freeiconspng.com/uploads/home-house-silhouette-icon-building--public-domain-pictures--20.png" style="height: 40px; width: 40px;">
     </div>
 
     <div style="margin-left: 10px;">
