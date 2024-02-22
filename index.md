@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,48 +7,58 @@
 <style>
 .info{
     float: left;
-    width: 25%;
-    height: 600px;
-    background-color: aqua;
+    width: 35%;
+    height: 660px;
+    background-color: #53d2ef;
     margin-right: 25px;
 }
-.right{
-    float: right;
-    width: 70%;
-    height: 600px;
-    background-color: blueviolet;
-    padding-left: 5px;
+.box{
+    height: 150px;
+    background-color: #43aac4;
+    padding-left: 10px;
+}
+.box img{
+    float: left;
 }
 </style>
 <body>
-    <h1>Cv</h1>
     <div class="info">
-    <h3>Personal info:</h3>
-    <p>Joel Rentola<br>
-        Phone: 045 6931959<br>
-        Email: joel06.rentola@gmail.com<br>
-        Github: https://github.com/Joel-Rentola
-    </p>
-
-    <h3>A little bit of me:</h3>
-    <p>Hello! I'm Joel Rentola a second year software developer student from Finland. I'm fluent in Finnish and English. I can also speak a little bit of Swedish too. Most of my code projects has been coded in C#, but I've used other languages such as python etc. too.  I also have an experience of coding very basic websites.</p>
+    <div class="box">
+        <h3 style="margin-top: 0; margin-bottom: 15px; padding-top: 5px;">Personal info:</h3>
+        <img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 18px; margin-bottom: 5px;">Joel Rentola</p>
+        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 2px; margin-bottom: 5px;">045 6931959</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/4213/4213968.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 1px; margin-bottom: 8px; margin-left: 22px;">joel06.rentola@gmail.com</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 20px; width: 20px;"><p style="margin: 0; margin-top: 6px; margin-left: 23px;">https://github.com/Joel-Rentola</p>
     </div>
 
-    <div style="margin-top: 38px;">
-        <h3>Education:</h3>
+    <div style="margin-left: 10px;">
+        <h3 style="margin-top: 5px;">A little bit of me:</h3>
+        <p>Hello! I'm Joel Rentola a second year software developer student from Finland. I'm fluent in Finnish and English.
+            I can also speak a little bit of Swedish too. Most of my code projects has been coded in C#, but I've used other languages such as python etc. too.
+             I also have an experience of coding very basic websites.</p>
+    </div>
+    </div>
+
+    <div>
+        <h3 style="margin: 0; padding-top: 5px;">Education:</h3>
         <p>
-            -Primary school graduated 1.6.2022. <br>
-            -Gradia vocational college software development ongoing <br>
+            -Primary school &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;graduated 1.6.2022. <br>
+            -Gradia vocational college software development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongoing <br>
         </p>
     
         <h3>My work experiense:</h3>
-        <p>-Internship: Power Seppälä Jyväskylä 9.2.2023-13.3.2023 Customer serving, IT-support and other IT stuff<br>
-            -My own 4H IT company
+        <p>-Internship: Power Seppälä Jyväskylä &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2.2023-13.3.2023 Customer serving, IT-support and other IT stuff<br>
+            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp; For about a year
         </p>
     
         <h3>Other jobs:</h3>
         <p>
-            -Student council of Koulukeskus Uurainen <br>
+            -Student council of Koulukeskus Uurainen 20.10.2018-1.6.2020<br>
+            -Secretary of the Student council of Koulukeskus Uurainen 20.10.2020-1.6.2021<br>
+            -Chairman of the Student council of Koulukeskus Uurainen 20.10.2021-1.6.2022<br>
             -Member of Youth council of Uurainen 11.10.2018-31.12.2019 <br>
             -Chairman of Youth council of Uurainen 1.1.2020-1.6.2022 <br>
         </p>
