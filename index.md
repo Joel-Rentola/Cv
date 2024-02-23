@@ -55,7 +55,9 @@
 
         <h3>Internships:</h3>
         <p>
-            Power Seppälä Jyväskylä &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2.2023-13.3.2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer serving, IT-support and other IT stuff
+            Power Seppälä Jyväskylä &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.2.2023-13.3.2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer serving, IT-support and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;other IT stuff
         </p>
     
         <h3>Other jobs:</h3>
