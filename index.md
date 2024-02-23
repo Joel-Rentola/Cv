@@ -50,7 +50,7 @@
     
         <h3>My work experiense:</h3>
         <p>
-            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mostly helping elderly with their PCs etc.
+            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Mostly helping elderly with their PCs etc.
         </p>
 
         <h3>Internships:</h3>
@@ -63,7 +63,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and other IT stuff
         </p>
     
-        <h3>Other jobs:</h3>
+        <h3 style="margin-top: 10px;">Other jobs:</h3>
         <p>
             -Student council of Koulukeskus Uurainen 20.10.2018-1.6.2020<br>
             -Secretary of the Student council of Koulukeskus Uurainen 20.10.2020-1.6.2021<br>
