@@ -8,7 +8,7 @@
 .info{
     float: left;
     width: 35%;
-    height: 590px;
+    height: 630px;
     background-color: #53d2ef;
     margin-right: 25px;
 }
@@ -45,13 +45,12 @@
             -Primary school &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;graduated 1.6.2022. <br>
-            -Gradia vocational college &nbsp;&nbsp;&nbsp;&nbsp; software development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongoing <br>
+            -Gradia vocational college &nbsp;&nbsp;&nbsp;&nbsp; software development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongoing <br>
         </p>
     
         <h3>My work experiense:</h3>
         <p>
-            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp; For about a year
+            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year
         </p>
 
         <h3>Internships:</h3>
