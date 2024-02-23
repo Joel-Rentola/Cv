@@ -34,7 +34,7 @@
     <div style="margin-left: 10px;">
         <h3 style="margin-top: 5px;">A little bit of me:</h3>
         <p>Hello! I'm Joel Rentola a second year software developer student from Finland. I'm fluent in Finnish and English.
-            I can also speak a little bit of Swedish too. Most of my code projects has been coded in C#, but I've used other languages such as python etc. too.
+            I can also speak a little bit of Swedish too. Most of my code projects has been coded in C#, but I've used other languages such as JavaScript etc. too.
              I also have an experience of coding very basic websites.</p>
     </div>
     </div>
@@ -50,7 +50,7 @@
     
         <h3>My work experiense:</h3>
         <p>
-            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year
+            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mostly helping elderly with their PCs etc.
         </p>
 
         <h3>Internships:</h3>
