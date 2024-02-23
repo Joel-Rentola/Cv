@@ -50,12 +50,12 @@
     
         <h3>My work experiense:</h3>
         <p>
-            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year
+            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year
         </p>
 
         <h3>Internships:</h3>
         <p>
-            Power Seppälä Jyväskylä &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2.2023-13.3.2023 Customer serving, IT-support and other IT stuff
+            Power Seppälä Jyväskylä &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2.2023-13.3.2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer serving, IT-support and other IT stuff
         </p>
     
         <h3>Other jobs:</h3>
