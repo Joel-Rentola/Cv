@@ -8,7 +8,7 @@
 .info{
     float: left;
     width: 35%;
-    height: 660px;
+    height: 658px;
     background-color: #53d2ef;
     margin-right: 25px;
 }
@@ -50,7 +50,8 @@
     
         <h3>My work experiense:</h3>
         <p>
-            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mostly helping elderly with their PCs etc.
+            -My own 4H IT company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For about a year &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mostly helping 
+            elderly with their PCs etc.
         </p>
 
         <h3>Internships:</h3>
